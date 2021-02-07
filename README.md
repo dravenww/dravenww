@@ -1,5 +1,5 @@
-## 个人介绍
-- 📸 I’m draven, 德莱问
+## 德莱问
+- 📸 I’m draven from BeiJing,China
 - 🔭 I’m currently working on tencent
 - 🌱 I’m currently learning Javascript
 - 🎮 I'm currently playing *英雄联盟&王者荣耀*
