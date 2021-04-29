@@ -7,6 +7,6 @@
 - 🎮 I'm currently playing *英雄联盟&王者荣耀*
 - 📫 How to reach me: dravenwu110200@gmail.com
 - 💻 掘金 @ https://juejin.cn/user/1732486056921614
-- 💻 awesome @ https://dravenww.github.io/awesome/
+- 💻 每日热文 @ http://www.dravenwu.top/
 - 💻 blog @ https://github.com/dravenww/blob
 - 🎈 fork react && vue && node && performance
